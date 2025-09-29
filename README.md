@@ -6,7 +6,7 @@
     </span>
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bixu1708&show_icons=true&theme=radical" alt="Bixu1708's GitHub stats" style="height: 100px;"/>
+  
 </div>
 
 
