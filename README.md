@@ -1,8 +1,11 @@
 
-<a href="https://github.com/bixu1708/portfolio" target="_blank">
-  <img src="https://github.com/bixu1708/portfolio/blob/main/src/assets/logo.png" alt="Portfolio Logo" width="50" style="vertical-align:middle;"/>
-  <span style="color:#4A90E2; font-size:20px; font-weight:bold; font-family:Arial, sans-serif; margin-left:8px;">Portfolio</span>
+<a href="https://github.com/bixu1708/portfolio" target="_blank" style="text-decoration:none; display: inline-flex; align-items: center; background: #e0f0ff; padding: 10px 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/bixu1708/portfolio/main/src/assets/logo.png" alt="Portfolio Logo" width="70" height="70" style="vertical-align:middle; border-radius: 15%;"/>
+  <span style="color:#0070f3; font-size:28px; font-weight:900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-left: 12px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
+    Portfolio
+  </span>
 </a>
+
 
 <!--
 **bixu1708/bixu1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
