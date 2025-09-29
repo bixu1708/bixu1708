@@ -1,4 +1,6 @@
-## Hi there 👋
+## My Portfolio
+[View My Portfolio](https://github.com/bixu1708/portfolio)
+
 
 <!--
 **bixu1708/bixu1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
