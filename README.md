@@ -1,5 +1,4 @@
-## My Portfolio
-[View My Portfolio](https://github.com/bixu1708/portfolio)
+![Bixu1708's GitHub stats](https://github-readme-stats.vercel.app/api?username=bixu1708&show_icons=true&theme=radical)
 
 
 <!--
