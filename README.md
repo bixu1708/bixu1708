@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bixu1708&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bixu1708)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **bixu1708/bixu1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
