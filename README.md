@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: center; gap: 40px;">
-  <!-- Portfolio link -->
   <a href="https://portfolio-three-lyart-26.vercel.app/" target="_blank" style="text-decoration:none; display: inline-flex; align-items: center; background: #e0f0ff; padding: 10px 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="https://raw.githubusercontent.com/bixu1708/portfolio/main/src/assets/logo.png" alt="Portfolio Logo" width="70" height="70" style="vertical-align:middle; border-radius: 15%;"/>
     <span style="color:#0070f3; font-size:28px; font-weight:900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-left: 12px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
@@ -7,9 +6,9 @@
     </span>
   </a>
 
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bixu1708&show_icons=true&theme=radical" alt="GitHub stats" style="height: 100px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bixu1708&show_icons=true&theme=radical" alt="Bixu1708's GitHub stats" style="height: 100px;"/>
 </div>
+
 
 
 <!--
