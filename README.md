@@ -1,5 +1,5 @@
-## 🚀 My Portfolio
-[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-GitHub-blue?logo=github)](https://portfolio-three-lyart-26.vercel.app/)
+[![Portfolio Logo](https://github.com/bixu1708/portfolio/blob/main/src/assets/logo.png)](https://github.com/bixu1708/portfolio)  
+[Portfolio](https://github.com/bixu1708/portfolio)
 
 <!--
 **bixu1708/bixu1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
