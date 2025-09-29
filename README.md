@@ -1,5 +1,4 @@
-![Bixu1708's GitHub stats](https://github-readme-stats.vercel.app/api?username=bixu1708&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bixu1708&layout=compact)
 
 <!--
 **bixu1708/bixu1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
