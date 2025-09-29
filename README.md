@@ -1,5 +1,8 @@
-[![Portfolio Logo](https://github.com/bixu1708/portfolio/blob/main/src/assets/logo.png)](https://github.com/bixu1708/portfolio)  
-[Portfolio](https://github.com/bixu1708/portfolio)
+
+<a href="https://github.com/bixu1708/portfolio" target="_blank">
+  <img src="https://github.com/bixu1708/portfolio/blob/main/src/assets/logo.png" alt="Portfolio Logo" width="50" style="vertical-align:middle;"/>
+  <span style="color:#4A90E2; font-size:20px; font-weight:bold; font-family:Arial, sans-serif; margin-left:8px;">Portfolio</span>
+</a>
 
 <!--
 **bixu1708/bixu1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
